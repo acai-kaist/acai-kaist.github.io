@@ -16,8 +16,8 @@ author: jihwan choi
 navbar-links:
   About: "aboutme"
   People:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - PI: "https://beautifuljekyll.com"
+    - Students: "https://www.markdowntutorial.com/"
   Publications:
 
 # --- Logo --- #
