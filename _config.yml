@@ -20,7 +20,7 @@ navbar-links:
     - Students: "https://www.markdowntutorial.com/"
   Publications:
 
-# --- Logo --- #
+# --- Logo --- # 
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
@@ -40,11 +40,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+#  facebook: deanattali
+#  github: daattali
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
