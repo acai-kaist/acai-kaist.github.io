@@ -1,8 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Jihwan Choi
 ---
+
+Research Interests
+Cross layer system design for wireless and space communication networks, and applications of machine learning and deep learning  
 
 My name is Inigo Montoya. I have the following qualities:
 
