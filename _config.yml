@@ -14,7 +14,7 @@ author: jihwan choi
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  # About: "aboutme"
+  About: "aboutme"
   People:
     - PI: "https://beautifuljekyll.com"
     - Students: "https://www.markdowntutorial.com/"
