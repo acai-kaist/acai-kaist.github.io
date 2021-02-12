@@ -14,7 +14,7 @@ Cross layer system design for wireless and space communication networks, and app
 
 Ph.D. in Electrical Engineering and Computer Science 
     
-  #  • Thesis: “Resource Allocation and Scheduling for Communication Satellites with Advanced Transmission Antenna” supervised by Prof. Vincent Chan 
+ $ #  • Thesis: “Resource Allocation and Scheduling for Communication Satellites with Advanced Transmission Antenna” supervised by Prof. Vincent Chan 
  
 
 9/1998-6/2000  Massachusetts Institute of Technology, Cambridge, MA 
