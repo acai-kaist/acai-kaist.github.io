@@ -38,7 +38,7 @@ Bachelor of Science in Electrical Engineering
 
 Associate Professor (3/2017-Present), Assistant Professor (1/2013-2/2017), Dept. of Information and Communication Engineering 
 
-# •    Researching on next-generation wireless/satellite communication networks, and applications of machine learning and deep learning  
+$ •    Researching on next-generation wireless/satellite communication networks, and applications of machine learning and deep learning  
  
  •    Teaching graduate-level courses: IC522 Computer Networks, IC566 Random Signals and Random Processes, IC633 Coding and Information Theory, IC666 Discrete Stochastic Processes, IC635 Microwave Communication Systems, and IC667 Convex Optimization 
 
