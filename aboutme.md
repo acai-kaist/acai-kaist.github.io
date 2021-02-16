@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: base
 title: Principal Investigator
 subtitle: Jihwan Choi
 ---
