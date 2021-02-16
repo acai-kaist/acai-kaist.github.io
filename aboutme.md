@@ -6,7 +6,7 @@ subtitle: Jihwan Choi
 
 ### Research Interests
 
-Cross layer system design for wireless and space communication networks, and applications of machine learning and deep learning  
+Aerospace communication networks and applications of machine learning  
 
 ### Education
 
