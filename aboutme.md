@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: page
 title: Principal Investigator
 subtitle: Jihwan Choi
 ---
@@ -12,17 +12,17 @@ Aerospace communication networks and applications of machine learning
 
 9/2000-9/2006,  Massachusetts Institute of Technology, Cambridge, MA 
 
-  Ph.D. in Electrical Engineering and Computer Science 
+   Ph.D. in Electrical Engineering and Computer Science 
  
 
 9/1998-6/2000,  Massachusetts Institute of Technology, Cambridge, MA 
 
-Master of Science in Electrical Engineering and Computer Science 
+M.S. in Electrical Engineering and Computer Science 
    
 
 3/1994-2/1998,  Seoul National University, Seoul, Korea 
 
-Bachelor of Science in Electrical Engineering 
+B.S. in Electrical Engineering 
  
 
 3/1991-2/1994,  Seoul Science High School, Seoul, Korea 
