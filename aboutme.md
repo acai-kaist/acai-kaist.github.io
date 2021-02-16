@@ -12,17 +12,17 @@ Aerospace communication networks and applications of machine learning
 
 9/2000-9/2006,  Massachusetts Institute of Technology, Cambridge, MA 
 
-Ph.D. in Electrical Engineering and Computer Science 
+ - Ph.D. in Electrical Engineering and Computer Science 
  
 
 9/1998-6/2000,  Massachusetts Institute of Technology, Cambridge, MA 
 
-M.S. in Electrical Engineering and Computer Science 
+- M.S. in Electrical Engineering and Computer Science 
    
 
 3/1994-2/1998,  Seoul National University, Seoul, Korea 
 
-B.S. in Electrical Engineering 
+- B.S. in Electrical Engineering 
  
 
 3/1991-2/1994,  Seoul Science High School, Seoul, Korea 
@@ -32,25 +32,25 @@ B.S. in Electrical Engineering
 
 2/2021-Present,   Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea
 
-Associate Professor, Dept. of Aerospace Engineering 
+- Associate Professor, Dept. of Aerospace Engineering 
 
 
 
 1/2013-2/2021,   Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, Korea
 
-Assistant/Associate Professor, Dept. of Information and Communication Engineering 
+- Assistant/Associate Professor, Dept. of Information and Communication Engineering 
 
 
 
 1/2016-12/2017,  Institute for Information and Communications Technology Promotion (IITP), Daejeon, Korea
 
-Part-time ICT R&D planner (RP)
+- Part-time ICT R&D planner (RP)
  
  
 
 9/2006-12/2012,  Marvell Semiconductor, Inc., Santa Clara, CA
 
-Principal Systems Engineer at Wireless R&D Group
+ - Principal Systems Engineer at Wireless R&D Group
 
 
  
