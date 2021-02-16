@@ -41,6 +41,10 @@ Aerospace communication networks and applications of machine learning
 - Assistant/Associate Professor, Dept. of Information and Communication Engineering 
 
 
+2/2019-2/2020, Samsung Semiconductor, Inc., San Diego, CA
+
+- Visiting Research Scientist, SoC Lab
+
 
 1/2016-12/2017,  Institute for Information and Communications Technology Promotion (IITP), Daejeon, Korea
 
@@ -50,7 +54,7 @@ Aerospace communication networks and applications of machine learning
 
 9/2006-12/2012,  Marvell Semiconductor, Inc., Santa Clara, CA
 
- - Principal Systems Engineer at Wireless R&D Group
+ - Senior/Staff/Principal Systems Engineer, Wireless R&D Group
 
 
  
