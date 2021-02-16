@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-subtitle: Jihwan Choi
+title: Jihwan Choi
+subtitle: 
 ---
 
 ### Research Interests
