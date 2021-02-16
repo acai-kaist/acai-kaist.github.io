@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Principal Investigator
+title: 
 subtitle: Jihwan Choi
 ---
 
