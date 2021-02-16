@@ -12,7 +12,7 @@ Aerospace communication networks and applications of machine learning
 
 9/2000-9/2006,  Massachusetts Institute of Technology, Cambridge, MA 
 
-   Ph.D. in Electrical Engineering and Computer Science 
+Ph.D. in Electrical Engineering and Computer Science 
  
 
 9/1998-6/2000,  Massachusetts Institute of Technology, Cambridge, MA 
