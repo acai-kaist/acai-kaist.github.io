@@ -8,6 +8,7 @@ subtitle: Jihwan Choi
 
 Aerospace communication networks and applications of machine learning  
 
+
 ### Education
 
 9/2000-9/2006,  Massachusetts Institute of Technology, Cambridge, MA  
@@ -31,7 +32,6 @@ B.S. in Electrical Engineering
 Associate Professor, Dept. of Aerospace Engineering 
 
 
-
 1/2013-2/2021,   Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, Korea  
 Assistant/Associate Professor, Dept. of Information and Communication Engineering 
 
@@ -41,18 +41,16 @@ Visiting Research Scientist, SoC Lab
 
 
 1/2016-12/2017,  Institute for ICT Promotion (IITP), Daejeon, Korea  
-Part-time ICT R&D planner (RP)
+Part-time ICT R&D Planner (RP)
  
  
-
 9/2006-12/2012,  Marvell Semiconductor, Inc., Santa Clara, CA  
-Senior/Staff/Principal Systems Engineer, Wireless R&D Group
+Senior/Staff/Senior-Staff/Principal Systems Engineer, Wireless R&D Group
 
 
- 
 ### Professional Services
 
-2019-Present,       **Associate Editor, IEEE Transactions on Aerospace and Electronic Systems**
+2019-Present,       **Associate Editor, IEEE Trans. on Aerospace and Electronic Systems**
 
 2019-Present,       Associate Editor, IEEE Access
 
