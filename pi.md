@@ -45,7 +45,7 @@ Part-time ICT R&D Planner (RP)
  
  
 9/2006-12/2012,  Marvell Semiconductor, Inc., Santa Clara, CA  
-Senior/Staff/Senior-Staff/Principal Systems Engineer, Wireless R&D Group
+Senior/Staff/Senior Staff/Principal Systems Engineer, Wireless R&D Group
 
 
 ### Professional Services
