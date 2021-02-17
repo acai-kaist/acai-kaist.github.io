@@ -48,7 +48,7 @@ Part-time ICT R&D Planner (RP)
 Senior/Staff/Senior Staff/Principal Systems Engineer, Wireless R&D Group
 
 
-### Professional Services
+### Professional Activities
 
 2019-Present,       **Associate Editor, IEEE Trans. on Aerospace and Electronic Systems**
 
