@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Jihwan Choi
-subtitle: 
+title: ACAI at KAIST
+subtitle: Jihwan Choi
 ---
 
 ### Research Interests
