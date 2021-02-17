@@ -6,9 +6,11 @@ subtitle:
 
 ### Journal Articles
 
- 
+S. Jung and J. P. Choi (corresponding author), "Reliability of Small Satellite Networks with Software-Defined Radio and Enhanced Multiple Access Protocol," accepted for IEEE Trans. on Aerospace and Electronic Systems, 2021.
 
-Y. Na, J. H. Kim, K. Lee, J. Park, J. Y. Hwang, and J. P. Choi, “Domain Adaptive Transfer Attack (DATA)-based Segmentation Networks for Building Extraction from Aerial Images,” accepted for IEEE Transactions on Geoscience and Remote Sensing, 2020.
+
+
+Y. Na, J. H. Kim, K. Lee, J. Park, J. Y. Hwang, and J. P. Choi, “Domain Adaptive Transfer Attack (DATA)-based Segmentation Networks for Building Extraction from Aerial Images,” accepted for IEEE Trans. on Geoscience and Remote Sensing, 2020.
 
  
 
@@ -127,6 +129,9 @@ J. P. Choi and V. W. S. Chan, “Predicting and Adapting Satellite Channels with
 ### Conference Papers
 
  
+T. Kim and J. P. Choi, “Performance Analysis of Satellite Server Mobile Edge Computing Architecture,” IEEE VTC (Vehicular Technology Conference), Oct. 2020.
+
+
 
 Y. Choi, J. P. Choi, M. El-Khamy, and J. Lee, "Data-free Network Quantization With Adversarial Knowledge Distillation," IEEE CVPR Workshop on Efficient Deep Learning for Computer Vision (EDLCV), June 2020.
 
