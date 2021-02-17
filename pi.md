@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ACAI at KAIST
-subtitle: Jihwan Choi
+subtitle: Jihwan Choi, jhch@kaist.ac.kr
 ---
 
 ### Research Interests
