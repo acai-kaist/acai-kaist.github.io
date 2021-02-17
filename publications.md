@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: ACAI at KAIST
 subtitle: 
 ---
 
