@@ -243,4 +243,4 @@ H. Lou, C. Podilchuk and J. P. Choi, “Progressive Video Streaming over 2G and 
 
  
 
-L. Dai, J. P. Choi, and V. Chan, “Communication satellites - technologies and systems: Telecommunications Systems and Technologies,” edited by Paolo Bellavista, in Encyclopedia of Life Support Systems (EOLSS), developed under the auspices of the United Nations Educational, Scientific and Cultural Organization (UNESCO), Eolss Publishers, Oxford, UK, http://www.eolss.net, 2007.
+L. Dai, J. P. Choi, and V. Chan, “Communication satellites - technologies and systems: Telecommunications Systems and Technologies,” edited by Paolo Bellavista, in Encyclopedia of Life Support Systems (EOLSS), developed under the auspices of the United Nations Educational, Scientific and Cultural Organization (UNESCO), Eolss Publishers, Oxford, UK, 2007.
