@@ -40,7 +40,7 @@ Assistant/Associate Professor, Dept. of Information and Communication Engineerin
 Visiting Research Scientist, SoC Lab
 
 
-1/2016-12/2017,  Institute for Information and Communications Technology Promotion (IITP), Daejeon, Korea  
+1/2016-12/2017,  Institute for ICT Promotion (IITP), Daejeon, Korea  
 Part-time ICT R&D planner (RP)
  
  
