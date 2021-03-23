@@ -27,10 +27,6 @@ S. Kim, J. Y. Kim, S. J. Heo, J. H. Yang, H. W. Jang, J. P. Choi, J. Y. Hwang, C
 
  
 
-S. Jung and J. P. Choi (corresponding author), “End-to-End Reliability of Satellite Communication Network Systems,” accepted for IEEE Systems Journal, 2020.
-
- 
-
 S.-H. Chang, S. Kim, and J. P. Choi (corresponding author), “The Optimal Distance Threshold for Fractional Frequency Reuse in Size-Scalable Networks,” IEEE Trans. on Aerospace and Electronic Systems, vol. 56, no. 1, pp. 527-546, Feb. 2020.
 
  
