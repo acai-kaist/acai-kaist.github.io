@@ -15,6 +15,10 @@ H. Lee, K. Lee, J. Kim, Y. Na, J. Park, J. P. Choi (co-corresponding author), an
 
 
 
+S. Jung and J. P. Choi (corresponding author), “Reliability of Small Satellite Networks with Software-Defined Radio and Enhanced Multiple Access Protocol,” accepted for IEEE Trans. on Aerospace and Electronic Systems, 2021.
+
+
+
 Y. Na, J. H. Kim, K. Lee, J. Park, J. Y. Hwang, and J. P. Choi, “Domain Adaptive Transfer Attack (DATA)-based Segmentation Networks for Building Extraction from Aerial Images,” accepted for IEEE Trans. on Geoscience and Remote Sensing, 2020.
 
 
