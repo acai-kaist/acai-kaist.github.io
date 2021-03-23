@@ -33,7 +33,7 @@ Associate Professor, Dept. of Aerospace Engineering
 
 
 1/2013-2/2021,   Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, Korea  
-Assistant/Associate Professor, Dept. of Information and Communication Engineering 
+Assistant/Associate Professor, Dept. of Information and Communication Engineering  
 Dean of Information and Library Services (4/2020-12/2020)
 
 
