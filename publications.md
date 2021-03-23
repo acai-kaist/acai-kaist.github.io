@@ -6,13 +6,22 @@ subtitle:
 
 ### Journal Articles
 
-S. Jung and J. P. Choi (corresponding author), "Reliability of Small Satellite Networks with Software-Defined Radio and Enhanced Multiple Access Protocol," accepted for IEEE Trans. on Aerospace and Electronic Systems, 2021.
+
+M. Hosseinian, J. P. Choi (co-first author), S.-H. Chang, and J. Lee, “Review of 5G NTN Standards Development and Technical Challenges for Satellite Integration with the 5G Network”, accepted for IEEE Aerospace and Electronic Systems Magazine, 2021.
+
+
+
+H. Lee, K. Lee, J. Kim, Y. Na, J. Park, J. P. Choi (co-corresponding author), and J. Y. Hwang, “Local Similarity Siamese Network for Urban Land Change Detection on Remote Sensing Images,” accepted for IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2021.
 
 
 
 Y. Na, J. H. Kim, K. Lee, J. Park, J. Y. Hwang, and J. P. Choi, “Domain Adaptive Transfer Attack (DATA)-based Segmentation Networks for Building Extraction from Aerial Images,” accepted for IEEE Trans. on Geoscience and Remote Sensing, 2020.
 
- 
+
+
+S. Jung and J. P. Choi (corresponding author), “End-to-End Reliability of Satellite Communication Network Systems,” IEEE Systems Journal, vol. 15, no. 1, pp. 791-801, Mar. 2021.
+
+
 
 S. Kim, J. Y. Kim, S. J. Heo, J. H. Yang, H. W. Jang, J. P. Choi, J. Y. Hwang, C. Moon, and J. E. Jang, “Enhanced Color Sensitivity by Coupling of Surface Plasmon and Fabry-perot Resonances for Spectrometer-free and Label-free Biosensing,” accepted for Sensors and Actuators B: Chemical, 2020.
 
