@@ -23,7 +23,7 @@ S. Jung and J. P. Choi (corresponding author), “End-to-End Reliability of Sate
 
 
 
-S. Kim, J. Y. Kim, S. J. Heo, J. H. Yang, H. W. Jang, J. P. Choi, J. Y. Hwang, C. Moon, and J. E. Jang, “Enhanced Color Sensitivity by Coupling of Surface Plasmon and Fabry-perot Resonances for Spectrometer-free and Label-free Biosensing,” accepted for Sensors and Actuators B: Chemical, 2020.
+S. Kim, J. Y. Kim, S. J. Heo, J. H. Yang, H. W. Jang, J. P. Choi, J. Y. Hwang, C. Moon, and J. E. Jang, “Enhanced Color Sensitivity by Coupling of Surface Plasmon and Fabry-perot Resonances for Spectrometer-free and Label-free Biosensing,” Sensors and Actuators B: Chemical, Vol. 319, Sept. 2020, 128301.
 
  
 
