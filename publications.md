@@ -11,15 +11,15 @@ M. Hosseinian, J. P. Choi (co-first author), S.-H. Chang, and J. Lee, “Review 
 
 
 
-H. Lee, K. Lee, J. Kim, Y. Na, J. Park, J. P. Choi (co-corresponding author), and J. Y. Hwang, “Local Similarity Siamese Network for Urban Land Change Detection on Remote Sensing Images,” accepted for IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2021.
-
-
-
 S. Jung and J. P. Choi (corresponding author), “Reliability of Small Satellite Networks with Software-Defined Radio and Enhanced Multiple Access Protocol,” accepted for IEEE Trans. on Aerospace and Electronic Systems, 2021.
 
 
 
 Y. Na, J. H. Kim, K. Lee, J. Park, J. Y. Hwang, and J. P. Choi, “Domain Adaptive Transfer Attack (DATA)-based Segmentation Networks for Building Extraction from Aerial Images,” accepted for IEEE Trans. on Geoscience and Remote Sensing, 2020.
+
+
+
+H. Lee, K. Lee, J. Kim, Y. Na, J. Park, J. P. Choi (co-corresponding author), and J. Y. Hwang, “Local Similarity Siamese Network for Urban Land Change Detection on Remote Sensing Images,” IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 14, pp. 4139-4149, 2021.
 
 
 
