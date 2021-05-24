@@ -19,7 +19,7 @@ S. Jung and J. P. Choi (corresponding author), “Reliability of Small Satellite
 
 
 
-Y. Na, J. H. Kim, K. Lee, J. Park, J. Y. Hwang, and J. P. Choi, “Domain Adaptive Transfer Attack (DATA)-based Segmentation Networks for Building Extraction from Aerial Images,” accepted for IEEE Trans. on Geoscience and Remote Sensing, 2020.
+Y. Na, J. H. Kim, K. Lee, J. Park, J. Y. Hwang, and J. P. Choi, “Domain Adaptive Transfer Attack (DATA)-based Segmentation Networks for Building Extraction from Aerial Images,” IEEE Transactions on Geoscience and Remote Sensing, vol. 59, no. 6, pp. 5171 - 5182, June 2021.
 
 
 
