@@ -7,6 +7,10 @@ subtitle:
 ### Journal Articles
 
 
+K. Lee, J. Kim, H. Lee, J. Park, J. P. Choi (co-corresponding author), and J. Y. Hwang, “Boundary-Oriented Binary Building  Segmentation Model with Two Scheme Learning for Aerial Images,” accepted for IEEE Transactions on Geoscience and Remote Sensing, 2021.
+
+
+
 Y. Lee and J. P. Choi (corresponding author), “Connectivity Analysis of Mega Constellation Satellite Networks with Optical Inter-Satellite Links,” accepted for IEEE Trans. on Aerospace and Electronic Systems, 2021.
 
 
