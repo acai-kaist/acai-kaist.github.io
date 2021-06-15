@@ -4,10 +4,6 @@ title: acai at KAIST
 subtitle: Jihwan Choi, jhch@kaist.ac.kr
 ---
 
-### Research Interests
-
-Aerospace communication networks and applications of machine learning  
-
 
 ### Education
 
@@ -51,7 +47,9 @@ Senior/Staff/Senior Staff/Principal Systems Engineer, Wireless R&D Group
 
 ### Professional Activities
 
-2019-Present,       **Associate Editor, IEEE Trans. on Aerospace and Electronic Systems**
+2021-Present,       Technical Advisor, Samsung Research
+
+2019-Present,       Associate Editor, IEEE Transactions on Aerospace and Electronic Systems
 
 2019-Present,       Associate Editor, IEEE Access
 
