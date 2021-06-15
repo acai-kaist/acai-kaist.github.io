@@ -6,23 +6,23 @@ subtitle:
 
 ### Satellite Communications
 
-5G/6G satellite-terrestrial integrated networks 
+- 5G/6G satellite-terrestrial integrated networks 
 
-On-board processing (OBP) systems and algorithms 
+- On-board processing (OBP) systems and algorithms 
 
 
 ### Wireless Communications
 
-Co-existence of multi-protocol radio systems 
+- Co-existence of multi-protocol radio systems 
 
-Physical layer security
+- Physical layer security
 
 
 ### Applications of machine learning and deep learning 
 
-Image segmentation of satellite/aerial data
+- Image segmentation of satellite/aerial data
 
-Multi-sensory data processing
+- Multi-sensory data processing
 
 
 ![image](/assets/img/research.png)
