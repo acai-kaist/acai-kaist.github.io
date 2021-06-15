@@ -1,4 +1,4 @@
-7/2021-12/2028,   Institute for Information & Communications Technology Promotion (IITP), “IT Research Center for Ultra Reliable Aerial Network (URAN) Supporting High-density Urban Air Mobility (UAM),” co-PI.
+7/2021-12/2028,   Institute for Information & Communications Technology Promotion (IITP), “IT Research Center for Ultra Reliable Aerial Network (URAN) Supporting High-Density Urban Air Mobility (UAM),” co-PI.
   
 3/2021-2/2024,    National Research Foundation (NRF) of Korea, “Software-Defined Network Design and Slicing Optimization for B5G/6G Satellite-Aerial Networks,” PI.
 
