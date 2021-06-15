@@ -19,6 +19,7 @@ navbar-links:
    # - PI: "https://beautifuljekyll.com"
    #- Students: "https://www.markdowntutorial.com/"
   Publications: "publications"
+  Projects: "projects"
   #"https://scholar.google.com/citations?user=LTZrX4YAAAAJ&hl=en"
 
 # --- Logo --- # 
