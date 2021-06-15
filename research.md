@@ -1,4 +1,4 @@
-**Satellite Networks**: On-board Processing (OBP) systems and algorithms, 5G/6G satellite-terrestrial integrated networks 
+**Satellite Communications**: On-board Processing (OBP) systems and algorithms, 5G/6G satellite-terrestrial integrated networks 
 
 
 **Wireless Communications**: Co-existence of Multi-Protocol Radio Systems, Physical Layer Security
