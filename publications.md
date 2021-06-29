@@ -19,7 +19,7 @@ M. Hosseinian, J. P. Choi (co-first author), S.-H. Chang, and J. Lee, “Review 
 
 
 
-S. Jung and J. P. Choi (corresponding author), “Reliability of Small Satellite Networks with Software-Defined Radio and Enhanced Multiple Access Protocol,” accepted for IEEE Trans. on Aerospace and Electronic Systems, 2021.
+S. Jung and J. P. Choi (corresponding author), “Reliability of Small Satellite Networks with Software-Defined Radio and Enhanced Multiple Access Protocol,” IEEE Trans. on Aerospace and Electronic Systems, vol. 57, no. 3, pp. 1891-1902, June 2021.
 
 
 
