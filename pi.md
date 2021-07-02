@@ -51,6 +51,4 @@ Senior/Staff/Senior Staff/Principal Systems Engineer, Wireless R&D Group
 
 2019-Present,       Associate Editor, IEEE Transactions on Aerospace and Electronic Systems
 
-2019-Present,       Associate Editor, IEEE Access
-
 2020-Present,       Editorial Board Member, Remote Sensing
