@@ -6,6 +6,9 @@ subtitle:
 
 ### Current Projects
 
+7/2021-11/2021,   Electronics and Telecommunications Research Institute (ETRI), “Study on LEO Communication Satellite Constellations,” PI.
+
+
 7/2021-12/2028,   Institute for Information & Communications Technology Promotion (IITP), “ICT Research Center: Ultra Reliable Aerial Network (URAN) Supporting High-Density Urban Air Mobility (UAM),” co-PI.
 
 
