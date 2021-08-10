@@ -15,7 +15,7 @@ Y. Lee and J. P. Choi (corresponding author), “Connectivity Analysis of Mega C
 
 
 
-M. Hosseinian, J. P. Choi (co-first author), S.-H. Chang, and J. Lee, “Review of 5G NTN Standards Development and Technical Challenges for Satellite Integration with the 5G Network”, accepted for IEEE Aerospace and Electronic Systems Magazine, 2021.
+M. Hosseinian, J. P. Choi (co-first author), S.-H. Chang, and J. Lee, “Review of 5G NTN Standards Development and Technical Challenges for Satellite Integration with the 5G Network”, IEEE Aerospace and Electronic Systems Magazine, vol. 36, no. 8, pp. 22-31, Aug. 2021.
 
 
 
