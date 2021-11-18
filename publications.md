@@ -7,6 +7,10 @@ subtitle:
 ### Journal Articles
 
 
+S. Jeon, J. Kwak, and J. P. Choi (co-corresponding author), “Cross-Layer Encryption of CFB-AES-TURBO for Advanced Satellite Data Transmission Security,” accepted for IEEE Trans. on Aerospace and Electronic Systems, 2021.
+
+
+
 K. Lee, J. Kim, H. Lee, J. Park, J. P. Choi (co-corresponding author), and J. Y. Hwang, “Boundary-Oriented Binary Building  Segmentation Model with Two Scheme Learning for Aerial Images,” accepted for IEEE Transactions on Geoscience and Remote Sensing, 2021.
 
 
