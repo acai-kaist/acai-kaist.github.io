@@ -7,6 +7,10 @@ subtitle:
 ### Journal Articles
 
 
+T. Kim, J. Kwak, and J. P. Choi (co-corresponding author), “Satellite Edge Computing Architecture and Network Slice Scheduling for IoT Support,” accepted for IEEE Internet of Thins Journal, 2021.
+
+
+
 S. Jeon, J. Kwak, and J. P. Choi (co-corresponding author), “Cross-Layer Encryption of CFB-AES-TURBO for Advanced Satellite Data Transmission Security,” accepted for IEEE Trans. on Aerospace and Electronic Systems, 2021.
 
 
