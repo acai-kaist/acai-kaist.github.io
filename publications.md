@@ -154,7 +154,7 @@ J. P. Choi and V. W. S. Chan, “Predicting and Adapting Satellite Channels with
 ### Conference Papers
 
 
-S. Jeon, J. Kwak, and J. P. Choi, “Advanced Multibeam Satellite Network Security with Encryption and Beamforming Technologies,” IEEE ICC (International Conference on Communications) Workshop, May 2022.
+S. Jeon, J. Kwak, and J. P. Choi, “Advanced Multibeam Satellite Network Security with Encryption and Beamforming Technologies,” IEEE ICC (International Conference on Communications) Workshops, May 2022.
 
 
 
