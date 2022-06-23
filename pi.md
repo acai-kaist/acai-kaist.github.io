@@ -47,8 +47,8 @@ Senior/Staff/Senior Staff/Principal Systems Engineer, Wireless R&D Group
 
 ### Professional Activities
 
-2021-Present,       Technical Advisor, Samsung Research
-
 2019-Present,       Associate Editor, IEEE Transactions on Aerospace and Electronic Systems
 
 2020-Present,       Editorial Board Member, Remote Sensing
+
+2021,               Technical Advisor, Samsung Research
