@@ -11,11 +11,11 @@ T. Kim, J. Kwak, and J. P. Choi (co-corresponding author), “Satellite Edge Com
 
 
 
-S. Jeon, J. Kwak, and J. P. Choi (co-corresponding author), “Cross-Layer Encryption of CFB-AES-TURBO for Advanced Satellite Data Transmission Security,” accepted for IEEE Trans. on Aerospace and Electronic Systems, 2021.
+S. Jeon, J. Kwak, and J. P. Choi (co-corresponding author), “Cross-Layer Encryption of CFB-AES-TURBO for Advanced Satellite Data Transmission Security,” IEEE Trans. on Aerospace and Electronic Systems, vol. 58, no. 3, pp. 2192-2205, June 2022.
 
 
 
-K. Lee, J. Kim, H. Lee, J. Park, J. P. Choi (co-corresponding author), and J. Y. Hwang, “Boundary-Oriented Binary Building  Segmentation Model with Two Scheme Learning for Aerial Images,” IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-17, 2022.
+K. Lee, J. Kim, H. Lee, J. Park, J. P. Choi (co-corresponding author), and J. Y. Hwang, “Boundary-Oriented Binary Building  Segmentation Model with Two Scheme Learning for Aerial Images,” IEEE Trans. on Geoscience and Remote Sensing, vol. 60, pp. 1-17, 2022.
 
 
 
