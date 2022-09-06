@@ -7,7 +7,7 @@ subtitle:
 ### Journal Articles
 
 
-T. Kim, J. Kwak, and J. P. Choi (co-corresponding author), “Satellite Edge Computing Architecture and Network Slice Scheduling for IoT Support,” accepted for IEEE Internet of Things Journal, 2021.
+T. Kim, J. Kwak, and J. P. Choi (co-corresponding author), “Satellite Edge Computing Architecture and Network Slice Scheduling for IoT Support,” IEEE Internet of Things Journal, vol. 9, no. 16, pp. 14938-14951, Aug. 2022.
 
 
 
