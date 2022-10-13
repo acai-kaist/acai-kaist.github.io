@@ -7,9 +7,6 @@ subtitle:
 ### Current Projects
 
 
-7/2022-6/2024,   KAI, “R&D on LEO Satellite OBP,” PI.
-
-
 6/2022-11/2022,   ETRI, “Study on Waveform Candidates for NTN Requirements,” PI.
 
 
