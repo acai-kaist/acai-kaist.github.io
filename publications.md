@@ -7,6 +7,10 @@ subtitle:
 ### Journal Articles
 
 
+T. Kim, J. Kwak, and J. P. Choi (co-corresponding author), “Satellite Network Slice Planning: Architecture, Performance Analysis, and Open Issues,” Accepted for IEEE Vehicular Technology Magazine, Jan. 2023.
+
+
+
 T. Kim, J. Kwak, and J. P. Choi (co-corresponding author), “Satellite Edge Computing Architecture and Network Slice Scheduling for IoT Support,” IEEE Internet of Things Journal, vol. 9, no. 16, pp. 14938-14951, Aug. 2022.
 
 
