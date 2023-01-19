@@ -158,6 +158,10 @@ J. P. Choi and V. W. S. Chan, “Predicting and Adapting Satellite Channels with
 ### Conference Papers
 
 
+K. Kim and J. P. Choi, “Joint Optimization of UAV Deployment and Power Allocation in Vertical mmWave Backhaul/NOMA Networks,” IEEE ICC (International Conference on Communications), May 2023.
+
+
+
 S. Jeon, J. Kwak, and J. P. Choi, “Advanced Multibeam Satellite Network Security with Encryption and Beamforming Technologies,” IEEE ICC (International Conference on Communications) Workshops, May 2022.
 
 
