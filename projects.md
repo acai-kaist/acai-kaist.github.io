@@ -7,9 +7,6 @@ subtitle:
 ### Current Projects
 
 
-6/2022-11/2022,   ETRI, “Study on Waveform Candidates for NTN Requirements,” PI.
-
-
 4/2022-12/2026,   National Research Foundation (NRF) of Korea, “Future Space Education Center: Space Communications with Multi-Mission Low-Earth-Orbit Satellite Constellations,” PI.
 
 
