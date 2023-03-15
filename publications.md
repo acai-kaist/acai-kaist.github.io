@@ -158,6 +158,10 @@ J. P. Choi and V. W. S. Chan, “Predicting and Adapting Satellite Channels with
 ### Conference Papers
 
 
+S. Kim and J. P. Choi, “Satellite User Grouping and Multi-Beam Patterning for Generalized Rate-Splitting Multiple Access,” IEEE ICC (International Conference on Communications) Workshops, May 2023.
+
+
+
 K. Kim and J. P. Choi, “Joint Optimization of UAV Deployment and Power Allocation in Vertical mmWave Backhaul/NOMA Networks,” IEEE ICC (International Conference on Communications), May 2023.
 
 
