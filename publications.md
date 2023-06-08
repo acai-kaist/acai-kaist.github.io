@@ -7,7 +7,7 @@ subtitle:
 ### Journal Articles
 
 
-T. Kim, J. Kwak, and J. P. Choi (co-corresponding author), “Satellite Network Slice Planning: Architecture, Performance Analysis, and Open Issues,” accepted for IEEE Vehicular Technology Magazine, Jan. 2023.
+T. Kim, J. Kwak, and J. P. Choi (co-corresponding author), “Satellite Network Slice Planning: Architecture, Performance Analysis, and Open Issues,” IEEE Vehicular Technology Magazine, vol. 18, no. 2, pp. 29-38, June 2023.
 
 
 
