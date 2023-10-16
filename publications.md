@@ -7,6 +7,10 @@ subtitle:
 ### Journal Articles
 
 
+H. H. Jung, J. Yea, H. Lee, H. N. Jung, J. Jekal, H. Lee, J. Ha, S. Oh, S. Song, J. Son, T. S. Yu, S. Jung, C. Lee, J. Kwak, J. P. Choi (co-corresponding author), and K.-I. Jang, “Taste Bud-Inspired Single-Drop Multitaste Sensing for Comprehensive Flavor Analysis with Deep Learning Algorithms,” ACS Applied Materials & Interfaces, 2023, 15, 39, 46041–46053, Sept. 2023.
+
+
+
 T. Kim, J. Kwak, and J. P. Choi (co-corresponding author), “Satellite Network Slice Planning: Architecture, Performance Analysis, and Open Issues,” IEEE Vehicular Technology Magazine, vol. 18, no. 2, pp. 29-38, June 2023.
 
 
@@ -156,6 +160,10 @@ J. P. Choi and V. W. S. Chan, “Predicting and Adapting Satellite Channels with
  
 
 ### Conference Papers
+
+
+D. Kim and J. P. Choi, “A Reliable Handover Strategy with Second Satellite Selection in LEO Satellite Networks,” IEEE Globecom (Global Communications Conference) Workshops, Dec. 2023.
+
 
 
 S. Kim and J. P. Choi, “Satellite User Grouping and Multi-Beam Patterning for Generalized Rate-Splitting Multiple Access,” IEEE ICC (International Conference on Communications) Workshops, May 2023.
