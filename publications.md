@@ -4,6 +4,13 @@ title: acai at KAIST
 subtitle: 
 ---
 
+### Book Chapter
+
+
+T. Kim, J. Kwak, and J. P. Choi, “6G satellite network architecture with onboard computing capabilities,” in "Integration of MTC and Satellites for IoT toward 6G Era,” Editors: Alves, Mikhaylov, Höyhtyä, Wiley/IEEE Press, July 2024.
+
+
+
 ### Journal Articles
 
 
