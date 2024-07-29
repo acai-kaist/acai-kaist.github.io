@@ -7,6 +7,10 @@ subtitle:
 ### Journal Articles
 
 
+S. Jeon, J. Kwak, and J. P. Choi (co-corresponding author), “An Integration of Cryptography and Physical Layer Security for Multibeam Satellite Systems,” Accepted for IEEE Trans. on Communications, July 2024.
+
+
+
 H. H. Jung, J. Yea, H. Lee, H. N. Jung, J. Jekal, H. Lee, J. Ha, S. Oh, S. Song, J. Son, T. S. Yu, S. Jung, C. Lee, J. Kwak, J. P. Choi (co-corresponding author), and K.-I. Jang, “Taste Bud-Inspired Single-Drop Multitaste Sensing for Comprehensive Flavor Analysis with Deep Learning Algorithms,” ACS Applied Materials & Interfaces, 2023, 15, 39, 46041–46053, Sept. 2023.
 
 
