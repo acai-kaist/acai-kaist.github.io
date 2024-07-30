@@ -14,6 +14,10 @@ T. Kim, J. Kwak, and J. P. Choi, “6G satellite network architecture with onboa
 ### Journal Articles
 
 
+K. Kim and J. P. Choi (corresponding author), “3D Network Design for Multi-UAV RAN with THz-Empowered Backhaul,” accepted for IEEE Trans. on Wireless Communications, July 2024.
+
+
+
 S. Jeon, J. Kwak, and J. P. Choi (co-corresponding author), “An Integration of Cryptography and Physical Layer Security for Multibeam Satellite Systems,” accepted for IEEE Trans. on Communications, July 2024.
 
 
