@@ -7,6 +7,9 @@ subtitle:
 ### Current Projects
 
 
+8/2024-12/2027,   Korea Institute for Advancement of Technology (KIAT), “Embedded Software-defined PHY-Layer Enabled on Ultrawideband Wireless Transceiver Solution,” co-PI.
+
+
 7/2024-12/2028,   Korea Evaluation Institute of Industrial Technology (KETI), “Development of High-throughput Communication Network Algorithms for Q/V Band,” PI.
 
 
