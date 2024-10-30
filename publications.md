@@ -14,6 +14,10 @@ T. Kim, J. Kwak, and J. P. Choi, “6G satellite network architecture with onboa
 ### Journal Articles
 
 
+T. Kim, S. Kim  (co-first author), J. Kwak, and J. P. Choi (co-corresponding author), “Satellite Network Slice Planning with Handover Trigger and DRL-Based Virtual Network Embedding,” accepted for IEEE Trans. on Aerospace and Electronic Systems, Oct. 2024.
+
+
+
 K. Kim and J. P. Choi (corresponding author), “3D Network Design for Multi-UAV RAN with THz-Empowered Backhaul,” accepted for IEEE Trans. on Wireless Communications, July 2024.
 
 
