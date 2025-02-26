@@ -17,6 +17,3 @@ subtitle:
 
 
 7/2021-12/2028,   Institute for Information & Communications Technology Promotion (IITP), “ICT Research Center: Ultra Reliable Aerial Network (URAN) Supporting High-Density Urban Air Mobility (UAM),” co-PI.
-
-
-7/2018-12/2024,   Institute for Information & Communications Technology Promotion (IITP), “Radio Research Center: Key Technologies Development for Next-Generation Satellites,” co-PI.
