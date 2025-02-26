@@ -18,7 +18,7 @@ T. Kim, S. Kim  (co-first author), J. Kwak, and J. P. Choi (co-corresponding aut
 
 
 
-S. Jeon, J. Kwak, and J. P. Choi (co-corresponding author), “An Integration of Cryptography and Physical Layer Security for Multibeam Satellite Systems,” accepted for IEEE Trans. on Communications, vol. 73, no. 2, pp. 1087-1099, Feb. 2025.
+S. Jeon, J. Kwak, and J. P. Choi (co-corresponding author), “An Integration of Cryptography and Physical Layer Security for Multibeam Satellite Systems,” IEEE Trans. on Communications, vol. 73, no. 2, pp. 1087-1099, Feb. 2025.
 
 
 
