@@ -47,7 +47,16 @@ Senior/Staff/Senior Staff/Principal Systems Engineer, Wireless R&D Group
 
 ### Professional Activities
 
-2019-Present,       Associate Editor, IEEE Transactions on Aerospace and Electronic Systems
+Associate Editor, IEEE Transactions on Aerospace and Electronic Systems (2019-Present)  
 
 
-2021,               Technical Advisor, Samsung Research
+Associate Editor, International Journal of Aeronautical and Space Sciences (2025-Present)
+
+
+Selected Area in Communication – Aerial Communications Chair, IEEE Globecom 2024
+
+
+Web Chair, IEEE ICC 2022
+
+
+Technical advisory board member for Samsung Research (2021), Samsung Electronics (2023), and Korea Aerospace Industries (KAI, 2024-Present)
