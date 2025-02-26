@@ -18,11 +18,11 @@ T. Kim, S. Kim  (co-first author), J. Kwak, and J. P. Choi (co-corresponding aut
 
 
 
-K. Kim and J. P. Choi (corresponding author), “3D Network Design for Multi-UAV RAN with THz-Empowered Backhaul,” accepted for IEEE Trans. on Wireless Communications, July 2024.
+S. Jeon, J. Kwak, and J. P. Choi (co-corresponding author), “An Integration of Cryptography and Physical Layer Security for Multibeam Satellite Systems,” accepted for IEEE Trans. on Communications, vol. 73, no. 2, pp. 1087-1099, Feb. 2025.
 
 
 
-S. Jeon, J. Kwak, and J. P. Choi (co-corresponding author), “An Integration of Cryptography and Physical Layer Security for Multibeam Satellite Systems,” accepted for IEEE Trans. on Communications, July 2024.
+K. Kim and J. P. Choi (corresponding author), “3D Network Design for Multi-UAV RAN with THz-Empowered Backhaul,” IEEE Trans. on Wireless Communications, vol. 23, no. 11, pp. 16437-16452, Nov. 2024.
 
 
 
@@ -179,6 +179,18 @@ J. P. Choi and V. W. S. Chan, “Predicting and Adapting Satellite Channels with
  
 
 ### Conference Papers
+
+
+S. Kim and J. P. Choi, “Traffic Splitting of LEO Mega-constellations with Non-coherent Cell-free Massive MIMO Systems,” IEEE ICC (International Conference on Communications), June 2025.
+
+
+
+K. Kim and J. P. Choi, “Joint Beamforming and Temporal Resource Allocation for RIS-aided Integrated Terrestrial and Aerial Networks Based on Reverse TDD,” IEEE ICC (International Conference on Communications), June 2025.
+
+
+
+K. Kim, W. Cha, and J. P. Choi, “UAV-Aided Delay-Oriented IoT Data Collection Strategies Using a Pattern Search Framework,” IEEE WCNC (Wireless Communications and Networking Conference), March 2025.
+
 
 
 D. Kim and J. P. Choi, “A Reliable Handover Strategy with Second Satellite Selection in LEO Satellite Networks,” IEEE Globecom (Global Communications Conference) Workshops, Dec. 2023.
