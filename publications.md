@@ -14,6 +14,10 @@ T. Kim, J. Kwak, and J. P. Choi, “6G satellite network architecture with onboa
 ### Journal Articles
 
 
+G. Jang and J. P. Choi (corresponding author), "APS Altitude Optimization for Downlink Communications: Alleviating the Effect of Channel Elevation Angles," accepted for IEEE Transactions on Aerospace and Electronic Systems, Apr. 2025.
+
+
+
 T. Kim, S. Kim  (co-first author), J. Kwak, and J. P. Choi (co-corresponding author), “Satellite Network Slice Planning with Handover Trigger and DRL-Based Virtual Network Embedding,” accepted for IEEE Trans. on Aerospace and Electronic Systems, Oct. 2024.
 
 
@@ -90,7 +94,7 @@ Y. Lee and J. P. Choi (corresponding author), "Performance Evaluation of High-Fr
 
  
 
-S. Jung and J. P. Choi (corresponding author), “Predicting System Failure Rates of SRAM-based FPGA On-Board Processors in Space Radiation Environments,” Reliability Engineering & System Safety, vol. 183, pp. 374-386, March 2019.
+S. Jung and J. P. Choi (corresponding author), “Predicting System Failure Rates of SRAM-based FPGA On-Board Processors in Space Radiation Environments,” Reliability Engineering & System Safety, vol. 183, pp. 374-386, Mar. 2019.
 
  
 
@@ -134,7 +138,7 @@ J. H. Kim, S. I. Cho, H. J. Kim, J.-W. Choi, J.-E. Jang, and J. P. Choi (corresp
 
  
 
-S.-H. Chang, J. P. Choi (corresponding author), P. C. Cosman, and L. B. Milstein, “Optimization of Multimedia Progressive Transmission over MIMO Channels,” IEEE Trans. on Vehicular Technology, vol. 65, no. 3, pp. 1244-1260, March 2016.
+S.-H. Chang, J. P. Choi (corresponding author), P. C. Cosman, and L. B. Milstein, “Optimization of Multimedia Progressive Transmission over MIMO Channels,” IEEE Trans. on Vehicular Technology, vol. 65, no. 3, pp. 1244-1260, Mar. 2016.
 
  
 
@@ -162,15 +166,15 @@ J. Lee, R. U. Nabar, J. P. Choi, and H. Lou, “Generalized Co-Phasing for Multi
 
  
 
-J. P. Choi and V. W. S. Chan, “Resource Management for Advanced Transmission Antenna Satellites,” IEEE Trans. on Wireless Communications, vol. 8, no. 3, pp. 1308-1321, March 2009.
+J. P. Choi and V. W. S. Chan, “Resource Management for Advanced Transmission Antenna Satellites,” IEEE Trans. on Wireless Communications, vol. 8, no. 3, pp. 1308-1321, Mar. 2009.
 
                  
 
-J. Lee, J. P. Choi, and H. Lou, “Joint Maximum Likelihood Estimation of Channel and Preamble Sequence for WiMAX Systems,” IEEE Trans. on Wireless Communications, vol. 7, no. 11, Part 1, pp. 4294-4303, November 2008.
+J. Lee, J. P. Choi, and H. Lou, “Joint Maximum Likelihood Estimation of Channel and Preamble Sequence for WiMAX Systems,” IEEE Trans. on Wireless Communications, vol. 7, no. 11, Part 1, pp. 4294-4303, Nov. 2008.
 
  
 
-J. P. Choi and V. W. S. Chan, “Optimum Power and Beam Allocation Based on Traffic Demands and Channel Conditions over Satellite Downlinks,” IEEE Trans. on Wireless Communications, vol. 4, no. 6, pp. 2983-2993, November 2005.
+J. P. Choi and V. W. S. Chan, “Optimum Power and Beam Allocation Based on Traffic Demands and Channel Conditions over Satellite Downlinks,” IEEE Trans. on Wireless Communications, vol. 4, no. 6, pp. 2983-2993, Nov. 2005.
 
                  
 
