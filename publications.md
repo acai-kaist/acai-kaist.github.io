@@ -14,7 +14,7 @@ T. Kim, J. Kwak, and J. P. Choi, “6G satellite network architecture with onboa
 ### Journal Articles
 
 
-G. Jang and J. P. Choi (corresponding author), "APS Altitude Optimization for Downlink Communications: Alleviating the Effect of Channel Elevation Angles," accepted for IEEE Transactions on Aerospace and Electronic Systems, Apr. 2025.
+G. Jang and J. P. Choi (corresponding author), "HAPS Altitude Optimization for Downlink Communications: Alleviating the Effect of Channel Elevation Angles," accepted for IEEE Transactions on Aerospace and Electronic Systems, Apr. 2025.
 
 
 
