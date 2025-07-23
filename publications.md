@@ -13,6 +13,9 @@ T. Kim, J. Kwak, and J. P. Choi, “6G satellite network architecture with onboa
 
 ### Journal Articles
 
+I. Choi, S. Kim, Y. Lee and J. P. Choi, "A Scalable Multi-Controller SDN Framework for LEO Mega-Constellation via Topology Virtualization," accepted for IEEE Internet of Things Journal, June 2025.
+
+
 
 G. Jang and J. P. Choi (corresponding author), "HAPS Altitude Optimization for Downlink Communications: Alleviating the Effect of Channel Elevation Angles," accepted for IEEE Transactions on Aerospace and Electronic Systems, Apr. 2025.
 
