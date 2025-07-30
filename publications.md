@@ -21,7 +21,7 @@ G. Jang and J. P. Choi (corresponding author), "HAPS Altitude Optimization for D
 
 
 
-T. Kim, S. Kim  (co-first author), J. Kwak, and J. P. Choi (co-corresponding author), “Satellite Network Slice Planning with Handover Trigger and DRL-Based Virtual Network Embedding,” accepted for IEEE Trans. on Aerospace and Electronic Systems, Oct. 2024.
+T. Kim, S. Kim  (co-first author), J. Kwak, and J. P. Choi (co-corresponding author), “Satellite Network Slice Planning with Handover Trigger and DRL-Based Virtual Network Embedding,” IEEE Trans. on Aerospace and Electronic Systems, vol. 61, no. 2, pp. 3193-3204, April 2025.
 
 
 
