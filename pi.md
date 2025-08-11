@@ -50,6 +50,9 @@ Senior/Staff/Senior Staff/Principal Systems Engineer, Wireless R&D Group
 Associate Editor, IEEE Transactions on Aerospace and Electronic Systems (2019-Present)  
 
 
+Associate Editor, IEEE Aerospace and Electronic Systems Magazine (2025-Present)  
+
+
 Associate Editor, International Journal of Aeronautical and Space Sciences (2025-Present)
 
 
