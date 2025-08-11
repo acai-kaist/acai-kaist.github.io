@@ -13,7 +13,11 @@ T. Kim, J. Kwak, and J. P. Choi, “6G satellite network architecture with onboa
 
 ### Journal Articles
 
-I. Choi, S. Kim, Y. Lee and J. P. Choi, "A Scalable Multi-Controller SDN Framework for LEO Mega-Constellation via Topology Virtualization," accepted for IEEE Internet of Things Journal, June 2025.
+A. Ablimit, J. P. Choi, Y. S. Ong, and Y. Wen, "The development of carbon-neutral data centres in space," accepted for Nature Electronics, Aug. 2025
+
+
+
+I. Choi, S. Kim, Y. Lee and J. P. Choi, "A Scalable Multi-Controller SDN Framework for LEO Mega-Constellation via Topology Virtualization," accepted for IEEE Internet of Things Journal, vol. 12, no. 16, pp. 33311-33327, Aug. 2025.
 
 
 
