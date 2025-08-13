@@ -21,7 +21,7 @@ I. Choi, S. Kim, Y. Lee and J. P. Choi, "A Scalable Multi-Controller SDN Framewo
 
 
 
-G. Jang and J. P. Choi (corresponding author), "HAPS Altitude Optimization for Downlink Communications: Alleviating the Effect of Channel Elevation Angles," accepted for IEEE Transactions on Aerospace and Electronic Systems, Apr. 2025.
+G. Jang and J. P. Choi (corresponding author), “HAPS Altitude Optimization for Downlink Communications: Alleviating the Effect of Channel Elevation Angles,” IEEE Transactions on Aerospace and Electronic Systems, vol. 61, no. 4, pp. 9856-9865, Aug. 2025.
 
 
 
