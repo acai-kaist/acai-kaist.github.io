@@ -7,6 +7,9 @@ subtitle:
 ### Current Projects
 
 
+9/2025-8/2028,   National Research Foundation (NRF) of Korea, “Virtualized, Open, and Intelligent 6G Software-defined Satellite Networks," PI
+
+
 8/2024-12/2027,   Korea Institute for Advancement of Technology (KIAT), “Embedded Software-defined PHY-Layer Enabled on Ultrawideband Wireless Transceiver Solution,” co-PI.
 
 
