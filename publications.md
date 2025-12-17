@@ -13,7 +13,7 @@ T. Kim, J. Kwak, and J. P. Choi, “6G satellite network architecture with onboa
 
 ### Journal Articles
 
-A. Ablimit, J. P. Choi, Y. S. Ong, and Y. Wen, "The development of carbon-neutral data centres in space," accepted for Nature Electronics, Aug. 2025
+A. Ablimit, J. P. Choi, Y. S. Ong, and Y. Wen, "The development of carbon-neutral data centres in space," Nature Electronics, vol. 8, pp. 1016–1026, Nov. 2025.
 
 
 
