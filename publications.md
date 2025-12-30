@@ -13,6 +13,11 @@ T. Kim, J. Kwak, and J. P. Choi, “6G satellite network architecture with onboa
 
 ### Journal Articles
 
+
+S. Kim, I. Choi, Y. Lee and J. P. Choi, "Multi-Gateway Feeder Link Switching Optimization in Multi-Shell LEO Mega-Constellations," accepted for IEEE Transactions on Communications, Dec. 2025.
+
+
+
 A. Ablimit, J. P. Choi, Y. S. Ong, and Y. Wen, "The development of carbon-neutral data centres in space," Nature Electronics, vol. 8, pp. 1016–1026, Nov. 2025.
 
 
@@ -192,7 +197,11 @@ J. P. Choi and V. W. S. Chan, “Predicting and Adapting Satellite Channels with
 ### Conference Papers
 
 
-S. Kim and J. P. Choi, “Traffic Splitting of LEO Mega-constellations with Non-coherent Cell-free Massive MIMO Systems,” IEEE ICC (International Conference on Communications), June 2025.
+G. Jang, D.-e. Kim, and J. P. Choi, "Stochastic Geometry-based Coverage Analysis of HAPS Downlink in Urban Environments," IEEE Globecom (Global Communications Conference), Dec. 2025.
+
+
+
+K. Kim, I. Choi, and J. P. Choi, "A Low-Latency Handover Framework in Integrated Aerial-LEO Satellite Networks for IoT Connectivity," IEEE Globecom (Global Communications Conference) Workshops, Dec. 2025
 
 
 
