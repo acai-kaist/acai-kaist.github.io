@@ -14,7 +14,11 @@ T. Kim, J. Kwak, and J. P. Choi, “6G satellite network architecture with onboa
 ### Journal Articles
 
 
-S. Kim, I. Choi, Y. Lee and J. P. Choi (corresponding author), "Multi-Gateway Feeder Link Switching Optimization in Multi-Shell LEO Mega-Constellations," accepted for IEEE Transactions on Communications, Dec. 2025.
+G. Jang, D.-e. Kim and J. P. Choi (corresponding author), "An Analytical Framework for HAPS Downlink Coverage Based on Stochastic Geometry," accepted for IEEE Transactions on Communications, Feb. 2026.
+
+
+
+S. Kim, I. Choi, Y. Lee and J. P. Choi (corresponding author), "Multi-Gateway Feeder Link Switching Optimization in Multi-Shell LEO Mega-Constellations," IEEE Transactions on Communications, vol. 74, pp. 2857-2873, 2026.
 
 
 
@@ -195,6 +199,9 @@ J. P. Choi and V. W. S. Chan, “Predicting and Adapting Satellite Channels with
  
 
 ### Conference Papers
+
+
+G. Jang and J. P. Choi, "Framework for Evaluating Fixed-Wing HALE Detection Probability under Hostile Ground-Based Radar Surveillance,” IEEE ICC (International Conference on Communications), May 2026.
 
 
 G. Jang, D.-e. Kim, and J. P. Choi, "Stochastic Geometry-based Coverage Analysis of HAPS Downlink in Urban Environments," IEEE Globecom (Global Communications Conference), Dec. 2025.
