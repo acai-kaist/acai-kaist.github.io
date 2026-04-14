@@ -14,7 +14,11 @@ T. Kim, J. Kwak, and J. P. Choi, “6G satellite network architecture with onboa
 ### Journal Articles
 
 
-G. Jang, D.-e. Kim and J. P. Choi (corresponding author), "An Analytical Framework for HAPS Downlink Coverage Based on Stochastic Geometry," accepted for IEEE Trans. on Communications, Feb. 2026.
+S. Kim, G. Im, J. G. Ryu and J. P. Choi (corresponding author), "Orthogonal Time-Frequency Space Modulation with DFT Precoded Filter Bank Multicarrier," accepted for IEEE Wireless Communications Letters, April 2026.
+
+
+
+G. Jang, D.-e. Kim and J. P. Choi (corresponding author), "An Analytical Framework for HAPS Downlink Coverage Based on Stochastic Geometry," IEEE Trans. on Communications,  vol. 74, pp. 5122-5137, 2026.
 
 
 
