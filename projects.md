@@ -7,6 +7,9 @@ subtitle:
 ### Current Projects
 
 
+4/2026-12/2033,   Korea Evaluation Institute of Industrial Technology (KEIT), "Living 3D Space: The Autonomous Spatial Intelligence Infrastructure for Real-Time Cities," co-PI.
+
+
 11/2025-10/2026,  Korea Aerospace Research Institute (KARI), "Study on the Intelligent Routing Technology of Mega Satellite Networks," PI. 
 
 
@@ -19,7 +22,7 @@ subtitle:
 8/2024-12/2027,   Korea Institute for Advancement of Technology (KIAT), “Embedded Software-defined PHY-Layer Enabled on Ultrawideband Wireless Transceiver Solution,” co-PI.
 
 
-7/2024-12/2028,   Korea Evaluation Institute of Industrial Technology (KETI), “Development of High-throughput Communication Network Algorithms for Q/V Band,” PI.
+7/2024-12/2028,   Korea Evaluation Institute of Industrial Technology (KEIT), “Development of High-throughput Communication Network Algorithms for Q/V Band,” PI.
 
 
 4/2022-12/2026,   Korea AeroSpace Administration (KASA), “Future Space Education Center: Space Communications with Multi-Mission Low-Earth-Orbit Satellite Constellations,” PI.
