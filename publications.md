@@ -14,7 +14,7 @@ T. Kim, J. Kwak, and J. P. Choi, “6G satellite network architecture with onboa
 ### Journal Articles
 
 
-M. Kim and J. P. Choi, "Object Detection-based Deep Space Communications Signal Acquisition," accepted for IEEE Trans. on Aerospace and Electronic Systems, June 2026.
+M. Kim and J. P. Choi (corresponding author), "Object Detection-based Deep Space Communications Signal Acquisition," accepted for IEEE Trans. on Aerospace and Electronic Systems, June 2026.
 
 
 S. Kim, G. Im, J. G. Ryu and J. P. Choi (corresponding author), "Orthogonal Time-Frequency Space Modulation with DFT Precoded Filter Bank Multicarrier," accepted for IEEE Wireless Communications Letters, April 2026.
