@@ -14,6 +14,9 @@ T. Kim, J. Kwak, and J. P. Choi, “6G satellite network architecture with onboa
 ### Journal Articles
 
 
+M. Kim and J. P. Choi, "Object Detection-based Deep Space Communications Signal Acquisition," accepted for IEEE Trans. on Aerospace and Electronic Systems, June 2026.
+
+
 S. Kim, G. Im, J. G. Ryu and J. P. Choi (corresponding author), "Orthogonal Time-Frequency Space Modulation with DFT Precoded Filter Bank Multicarrier," accepted for IEEE Wireless Communications Letters, April 2026.
 
 
@@ -180,7 +183,7 @@ J.-W. Choi, J. Lee, J. P. Choi (corresponding author), and H. Lou, “MIMO Soft 
 
 J.-W. Choi, J. Lee, J. P. Choi, and H. Lou, “Low-Complexity Mean-Delay Estimation for OFDM Systems,” IEEE Trans. on Vehicular Technology, vol. 58, pp. 3790-3795, Sept. 2009.
 
- 
+  
 
 J. Lee, R. U. Nabar, J. P. Choi, and H. Lou, “Generalized Co-Phasing for Multiple Transmit and Receive Antenna,” IEEE Trans. on Wireless Communications, vol. 8, pp. 1649-1654, Apr. 2009.
 
@@ -206,6 +209,23 @@ J. P. Choi and V. W. S. Chan, “Predicting and Adapting Satellite Channels with
 
 
 G. Jang and J. P. Choi, "Framework for Evaluating Fixed-Wing HALE Detection Probability under Hostile Ground-Based Radar Surveillance,” IEEE ICC (International Conference on Communications), May 2026.
+
+
+
+E. Y. Kim, S. Kim, and J. P. Choi, "A Two-Layer RSMA Framework for Internal Secrecy in Multibeam Satellite Communications," IEEE ICC (International Conference on Communications) Workshops, May 2026.
+
+
+
+D.-e. Kim, S. Kim, and J. P. Choi, "Latency-Centric RAN Orchestration with World Model for Satellite-Assisted Mobile Edge Computing," IEEE ICC (International Conference on Communications) Workshops, May 2026.
+
+
+
+S. Kim and J. P. Choi, "Explicit LEO Satellite Constellation Design and Coverage Analysis of Clustered Space SDN," IEEE ICC (International Conference on Communications) Workshops, May 2026.
+
+
+
+K. Kim and J. P. Choi, "Joint Beamforming and Space-Time Filtering for Cell-Free LEO Satellite ISAC Networks with Non-Uniform ISAC Demands," IEEE ICC (International Conference on Communications) Workshops, May 2026.
+
 
 
 G. Jang, D.-e. Kim, and J. P. Choi, "Stochastic Geometry-based Coverage Analysis of HAPS Downlink in Urban Environments," IEEE Globecom (Global Communications Conference), Dec. 2025.
