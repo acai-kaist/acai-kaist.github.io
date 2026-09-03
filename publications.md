@@ -17,13 +17,16 @@ T. Kim, J. Kwak, and J. P. Choi, “6G satellite network architecture with onboa
 S. Kim, D. -E. Kim (co-first author), and J. P. Choi (corresponding author), "Self-Orchestrated AP Switching Optimization via Network Uncertainty Awareness for 6G AI-RAN," IEEE Transactions on Wireless Communications, vol. 25, pp. 22509-22525, 2026.
 
 
+
 W. Cha, K. Kim (co-first author), S. Kim, J. Choi and J. P. Choi (cp-corresponding author), "Demand-Aware Cooperative Transmission Design for Energy-Efficient LEO Satellite Networks," IEEE Transactions on Wireless Communications, 2026.
 
 
-M. Kim and J. P. Choi (corresponding author), "Object Detection-based Deep Space Communications Signal Acquisition," accepted for IEEE Trans. on Aerospace and Electronic Systems, June 2026.
+
+M. Kim and J. P. Choi (corresponding author), "Object Detection-based Deep Space Communications Signal Acquisition," IEEE Transactions on Aerospace and Electronic Systems, vol. 62, pp. 13063-13076, 2026.
 
 
-S. Kim, G. Im, J. G. Ryu and J. P. Choi (corresponding author), "Orthogonal Time-Frequency Space Modulation with DFT Precoded Filter Bank Multicarrier," accepted for IEEE Wireless Communications Letters, April 2026.
+
+S. Kim, G. Im, J. G. Ryu and J. P. Choi (corresponding author), "Orthogonal Time-Frequency Space Modulation with DFT Precoded Filter Bank Multicarrier," IEEE Wireless Communications Letters, vol. 15, pp. 2839-2843, 2026.
 
 
 
