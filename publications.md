@@ -14,6 +14,12 @@ T. Kim, J. Kwak, and J. P. Choi, “6G satellite network architecture with onboa
 ### Journal Articles
 
 
+S. Kim, D. -E. Kim (co-first author), and J. P. Choi (corresponding author), "Self-Orchestrated AP Switching Optimization via Network Uncertainty Awareness for 6G AI-RAN," IEEE Transactions on Wireless Communications, vol. 25, pp. 22509-22525, 2026.
+
+
+W. Cha, K. Kim (co-first author), S. Kim, J. Choi and J. P. Choi (cp-corresponding author), "Demand-Aware Cooperative Transmission Design for Energy-Efficient LEO Satellite Networks," IEEE Transactions on Wireless Communications, 2026.
+
+
 M. Kim and J. P. Choi (corresponding author), "Object Detection-based Deep Space Communications Signal Acquisition," accepted for IEEE Trans. on Aerospace and Electronic Systems, June 2026.
 
 
@@ -21,7 +27,7 @@ S. Kim, G. Im, J. G. Ryu and J. P. Choi (corresponding author), "Orthogonal Time
 
 
 
-G. Jang, D.-e. Kim and J. P. Choi (corresponding author), "An Analytical Framework for HAPS Downlink Coverage Based on Stochastic Geometry," IEEE Trans. on Communications,  vol. 74, pp. 5122-5137, 2026.
+G. Jang, D. -E. Kim and J. P. Choi (corresponding author), "An Analytical Framework for HAPS Downlink Coverage Based on Stochastic Geometry," IEEE Trans. on Communications,  vol. 74, pp. 5122-5137, 2026.
 
 
 
@@ -233,6 +239,10 @@ G. Jang, D.-e. Kim, and J. P. Choi, "Stochastic Geometry-based Coverage Analysis
 
 
 K. Kim, I. Choi, and J. P. Choi, "A Low-Latency Handover Framework in Integrated Aerial-LEO Satellite Networks for IoT Connectivity," IEEE Globecom (Global Communications Conference) Workshops, Dec. 2025
+
+
+
+S. Kim and J. P. Choi, "Traffic Splitting of LEO Mega-Constellations with Non-Coherent Cell-Free Massive MIMO Systems," IEEE ICC (International Conference on Communications), June 2025.
 
 
 
