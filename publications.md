@@ -14,11 +14,11 @@ T. Kim, J. Kwak, and J. P. Choi, “6G satellite network architecture with onboa
 ### Journal Articles
 
 
+W. Cha, K. Kim (co-first author), S. Kim, J. Choi and J. P. Choi (cp-corresponding author), "Demand-Aware Cooperative Transmission Design for Energy-Efficient LEO Satellite Networks," IEEE Transactions on Wireless Communications, vol. 25, pp. 22588-22604, 2026.
+
+
+
 S. Kim, D. -E. Kim (co-first author), and J. P. Choi (corresponding author), "Self-Orchestrated AP Switching Optimization via Network Uncertainty Awareness for 6G AI-RAN," IEEE Transactions on Wireless Communications, vol. 25, pp. 22509-22525, 2026.
-
-
-
-W. Cha, K. Kim (co-first author), S. Kim, J. Choi and J. P. Choi (cp-corresponding author), "Demand-Aware Cooperative Transmission Design for Energy-Efficient LEO Satellite Networks," IEEE Transactions on Wireless Communications, 2026.
 
 
 
