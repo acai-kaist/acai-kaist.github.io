@@ -14,6 +14,9 @@ T. Kim, J. Kwak, and J. P. Choi, “6G satellite network architecture with onboa
 ### Journal Articles
 
 
+K. Kim, I. Choi, W. Cha and J. P. Choi (corresponding author), "Delay-Oriented Satellite-Aerial-Ground Integrated Network Design for Ubiquitous 6G Connectivity," accepted for IEEE Transactions on Wireless Communications, 2026.
+
+
 S. Kim, D. -E. Kim (co-first author), and J. P. Choi (corresponding author), "Self-Orchestrated AP Switching Optimization via Network Uncertainty Awareness for 6G AI-RAN," IEEE Transactions on Wireless Communications, vol. 25, pp. 22509-22525, 2026.
 
 
